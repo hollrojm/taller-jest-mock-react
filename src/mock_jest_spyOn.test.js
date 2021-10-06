@@ -1,5 +1,5 @@
-import * as app from "../src/app";
-import * as math from "../src/math";
+import * as app from "./app";
+import * as math from "./math";
 test("calls math.add", () => {
   // store the original implementation
   const originalAdd = math.add;
