@@ -1,5 +1,3 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
 
 import * as app from "./app";
 import * as math from "./math";
